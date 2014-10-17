@@ -78,7 +78,7 @@ snapshot
 	COGS = Beginning Inventory + Purchase - Ending Inventory
 	 
 
-借的钱没有不会反应在利润表上，但是这笔钱是怎么来的？
+借的钱没有不会反应在利润表（Income Statement）上，但是会反应在资产负债表（Balance Sheet）上，那么这笔钱是怎么来的？
 
 
 ##Q3：那是不是可以理解成Business的三个要素：资产、利润、现金？
