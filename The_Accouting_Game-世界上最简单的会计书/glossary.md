@@ -78,10 +78,24 @@ snapshot
 	COGS = Beginning Inventory + Purchase - Ending Inventory
 	 
 
+##Q3: WHERE IS OUR CASH COME FROM? (我们先进是如何产生的？)
+
 借的钱没有不会反应在利润表（Income Statement）上，但是会反应在资产负债表（Balance Sheet）上，那么这笔钱是怎么来的？
 
 
-##Q3：那是不是可以理解成Business的三个要素：资产、利润、现金？
+	是不是可以理解成Business的三个要素：资产、利润、现金？
 
 ---
 
+###贷款、赊账
+
+**RETAINED EARNING**： 留存收益，以前的盈利或是过去会计期间的利润，（留存收益可以留在“生意”里，也可以分给股东）
+
+**ACCOUNT PAYABLE**：应付账款
+
+	应付账款（Account Payable）与应付票据（Notes Payable）的区别：
+	1、Notes Payable因受到他人的【借款】而产生，而Account Payable因为【赊账购买】原材料等物品而产生
+	2、时间要求不同，通常情况下，银行贷款（Notes Payable）和杂货店信用贷款（Account Payable）有不同的还款期限，Notes Payable长，Account Payable短
+	3、Notes Payable需要利息，而Account Payable不需要
+
+---	
