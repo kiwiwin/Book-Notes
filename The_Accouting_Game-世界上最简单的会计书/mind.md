@@ -198,7 +198,37 @@ The Accural Method: 按照交易事项的发生进行应计核算，无论是否
 	Depreciation is an non-cash expense（折旧是一项非付现费用，仅体现在账面上），所以“折旧不需要支付现金，就会使盈利和税收同时都减少”
 
 
-**STRAIGHT LINE DEPRECIATION**：直线折旧法，折旧是一项费用，减少了盈利
+**STRAIGHT LINE DEPRECIATION**：直线折旧法，折旧是一项费用，减少了盈利。（**对于建筑物，直线折旧法是唯一能够使用的方法，对于设备可以选择直线折旧法或者加速折旧法**）
+
+**ACRS**：加速成本回收制度，加速折旧加上通货膨胀的原因当前所得税的减少要比未来所得税的减少更好
 
 ---
 ###Q:在这一章中，我们的现金减少了，盈利却增加了？这说明了现金和盈利的什么关系？
+
+	Earning Are Not Cash！（盈利并非现金，盈利可能存在于资产、存货或是设备中【还比如应收账款】）
+	
+###Q:为什么现金重要？
+	
+	On a Daily Basis, Cash Runs The Business, Not Profits
+	
+现金才是企业的核心、驱动力以及血脉，也是现金才能使得企业得以运转。没有现金的企业不可能运转，但是没有盈利的企业还可以运转一段时间
+
+**CURRENT ASSETS**：流动资产，包括现金、应收账款、存货及待摊费用
+
+**GROSS FIXED ASSETS**：固定资产原值
+
+**ACCUMULATED DEPRECIATION**：累积折旧
+
+**NET FIXED ASSETS**：固定资产账面净值
+
+**INCOME TAX**：所得税
+
+---
+
+## 税金
+**FISH**：First In, Still Here
+
+**WRITE OFF**：核销
+
+	
+	
