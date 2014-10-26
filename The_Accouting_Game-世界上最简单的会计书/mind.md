@@ -1,4 +1,4 @@
-#为什么需要Accounting？
+                                                                                                                                                    #为什么需要Accounting？
 
 **Accounting**, which has been called **"The Language of Business"**, measures the results of organisation economic activities andconveys 'this' information to variety of users including investors, creditors, management and regulator.
 
@@ -99,3 +99,43 @@ snapshot
 	3、Notes Payable需要利息，而Account Payable不需要
 
 ---	
+
+**RAW MATERIALS**：原材料，柠檬
+
+**FINISHED MATERIALS**：产成品
+
+**WIP**：work in process，在产品
+
+	Raw materials -> WIP -> Finished Materials
+	
+---
+
+**ACCOUNT RECIVABLE**：应收账款
+
+**BAD DEBT**：坏账
+
+**INTEREST EXPENSE**：利息费用
+
+**PREPAID EXPENSE**：待摊费用（购买保险三年），提前还款能算做待摊费用吗？，这是一项资产
+
+**CURRENT EXPENSE**：即期费用（购买保险三年，第一年算即期费用）
+
+---
+
+##会计方法
+
+####The Accural Method（权责发生制）
+The Accural Method: 按照交易事项的发生进行应计核算，无论是否收到或者支付现金
+
+####The Cash Method(收付实现制)
+收到现金时才进行核算
+
+###Q:什么时候使用权责发生制？什么时候使用收付实现制？如果可以自由选择，更希望用哪种
+
+	权责发生制看起来会有更多的利润。一家公司若有存货则应禁止使用收付实现制，因为这样可以避税（政府不会允许你这样避税的）。
+	
+	是否能够使用收付实现制取决于你是否有“存货”
+	
+**Delaying** 延期纳税，延期纳税就以为着税收的减少
+
+**Creative Accounting** 创意会计，同时拥有两套账
