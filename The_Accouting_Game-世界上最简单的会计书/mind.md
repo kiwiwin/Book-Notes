@@ -78,7 +78,7 @@ snapshot
 	COGS = Beginning Inventory + Purchase - Ending Inventory
 	 
 
-##Q3: WHERE IS OUR CASH COME FROM? (我们先进是如何产生的？)
+##Q3: WHERE IS OUR CASH COME FROM? (我们现金是如何产生的？)
 
 借的钱没有不会反应在利润表（Income Statement）上，但是会反应在资产负债表（Balance Sheet）上，那么这笔钱是怎么来的？
 
